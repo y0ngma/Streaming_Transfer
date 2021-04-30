@@ -1,0 +1,11 @@
+shop_code,dvr_num,dvr_ip,dvr_ch,acc,pw,port,ch_name
+TEST,101,192.168.0.96,cam/realmonitor?channel=1&subtype=0,admin,qtumai123!,554,ch01
+TEST,101,192.168.0.96,cam/realmonitor?channel=1&subtype=0,admin,qtumai123!,554,ch02
+TEST,101,192.168.0.96,cam/realmonitor?channel=1&subtype=0,admin,qtumai123!,554,ch03
+TEST,101,192.168.0.96,cam/realmonitor?channel=1&subtype=0,admin,qtumai123!,554,ch04
+TEST,101,192.168.0.96,cam/realmonitor?channel=1&subtype=0,admin,qtumai123!,554,ch05
+TEST,101,192.168.0.96,cam/realmonitor?channel=1&subtype=0,admin,qtumai123!,554,ch06
+TEST,101,192.168.0.96,cam/realmonitor?channel=1&subtype=0,admin,qtumai123!,554,ch07
+TEST,101,192.168.0.96,cam/realmonitor?channel=1&subtype=0,admin,qtumai123!,554,ch08
+
+
