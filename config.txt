@@ -1,0 +1,2 @@
+shop_code,dvr_ip,port,dvr_ch,acc,pw,ch_name,group
+DDOBONG,192.168.35.111,554,cam/realmonitor?channel=1&subtype=0,admin,qtumai123456,ch2,3_out
